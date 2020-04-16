@@ -1,0 +1,149 @@
+helpIntent give me options
+helpIntent help
+helpIntent help me
+helpIntent information
+helpIntent info
+helpIntent what can i say
+
+getIngredientIntent ingredients
+getIngredientIntent get ingredients
+getIngredientIntent what are the ingredients
+getIngredientIntent give me the ingredients
+getIngredientIntent tell me the ingredients
+
+advanceIngredientIntent next ingredient
+advanceIngredientIntent what's the next ingredient
+advanceIngredientIntent get the next ingredient
+advanceIngredientIntent i'm ready for the next ingredient
+advanceIngredientIntent ok what else
+
+lastIngredientIntent last ingredient
+lastIngredientIntent what was the last ingredient
+lastIngredientIntent previous ingredient
+lastIngredientIntent get former ingredient
+lastIngredientIntent repeat former ingredient
+
+getDirectionIntent start
+getDirectionIntent read recipe
+getDirectionIntent what are the directions
+getDirectionIntent give me the directions
+getDirectionIntent directions
+getDirectionIntent recipe directions
+advanceDirectionIntent next direction
+advanceDirectionIntent get next direction
+advanceDirectionIntent ok what next
+advanceDirectionIntent what is the next step
+advanceDirectionIntent next step
+
+lastDirectionIntent what was that last direction
+lastDirectionIntent previous direction
+lastDirectionIntent former direction
+lastDirectionIntent get last direction
+lastDirectionIntent repeat last direction
+lastDirectionIntent last step
+
+getPastaRecipeIntent pasta
+getPastaRecipeIntent I want pasta
+getPastaRecipeIntent find pasta
+getPastaRecipeIntent i'd like to make pasta
+getPastaRecipeIntent i want to make pasta
+getPastaRecipeIntent pasta recipe
+getPastaRecipeIntent get pasta
+getPastaRecipeIntent get pasta recipe
+getPastaRecipeIntent get the pasta recipe
+getPastaRecipeIntent read pasta recipe
+getPastaRecipeIntent read the pasta recipe
+getPastaRecipeIntent i want the pasta recipe
+
+getCerealRecipeIntent cereal
+getCerealRecipeIntent I want cereal
+getCerealRecipeIntent find cereal
+getCerealRecipeIntent i'd like to make cereal
+getCerealRecipeIntent cereal recipe
+getCerealRecipeIntent get cereal
+getCerealRecipeIntent get cereal recipe
+getCerealRecipeIntent get the cereal
+getCerealRecipeIntent get the cereal recipe
+getCerealRecipeIntent read cereal recipe
+getCerealRecipeIntent read the cereal recipe
+getCerealRecipeIntent i want the cereal
+getCerealRecipeIntent i want the cereal recipe
+
+getFriedRiceRecipeIntent fried rice
+getFriedRiceRecipeIntent I want fried rice
+getFriedRiceRecipeIntent find fried rice
+getFriedRiceRecipeIntent i'd like to make fried rice
+getFriedRiceRecipeIntent fried rice recipe
+getFriedRiceRecipeIntent get fried rice
+getFriedRiceRecipeIntent get fried rice recipe
+getFriedRiceRecipeIntent get the fried rice
+getFriedRiceRecipeIntent get the fried rice recipe
+getFriedRiceRecipeIntent read the fried rice recipe
+getFriedRiceRecipeIntent i want the fried rice recipe
+
+getSteakRecipeIntent steak
+getSteakRecipeIntent I want steak
+getSteakRecipeIntent find steak
+getSteakRecipeIntent i'd like to make steak
+getSteakRecipeIntent steak recipe
+getSteakRecipeIntent get steak
+getSteakRecipeIntent get steak recipe
+getSteakRecipeIntent get the steak
+getSteakRecipeIntent get the steak recipe
+getSteakRecipeIntent read steak recipe
+getSteakRecipeIntent read the steak recipe
+
+getBaconEggsRecipeIntent bacon and eggs
+getBaconEggsRecipeIntent I want bacon and eggs
+getBaconEggsRecipeIntent find bacon and eggs
+getBaconEggsRecipeIntent i'd like to make bacon and eggs
+getBaconEggsRecipeIntent bacon and eggs recipe
+getBaconEggsRecipeIntent get bacon and eggs
+getBaconEggsRecipeIntent get bacon and eggs recipe
+getBaconEggsRecipeIntent get the bacon and eggs
+getBaconEggsRecipeIntent get the bacon and eggs recipe
+getBaconEggsRecipeIntent i want bacon and eggs
+getBaconEggsRecipeIntent read the bacon and eggs
+getBaconEggsRecipeIntent read the bacon and eggs recipe
+getBaconEggsRecipeIntent get the bacon and eggs
+getBaconEggsRecipeIntent get the bacon and eggs recipe
+
+getOatmealRecipeIntent oatmeal
+getOatmealRecipeIntent I want oatmeal
+getOatmealRecipeIntent find oatmeal
+getOatmealRecipeIntent i'd like to make oatmeal
+getOatmealRecipeIntent oatmeal recipe
+getOatmealRecipeIntent get oatmeal
+getOatmealRecipeIntent get oatmeal recipe
+getOatmealRecipeIntent i want oatmeal
+getOatmealRecipeIntent i want oatmeal recipe
+getOatmealRecipeIntent i want the oatmeal recipe
+getOatmealRecipeIntent read oatmeal recipe
+getOatmealRecipeIntent read the oatmeal recipe
+
+quitIntent stop
+quitIntent exit
+quitIntent quit
+quitIntent abort
+quitIntent no no no 
+quitIntent this is too hard
+quitIntent i'm not hungry anymore
+quitIntent i don't have the necessary ingredients
+
+startIntent begin
+startIntent start recipe reader
+startIntent main menu
+startIntent menu
+startAgainIntent start again
+
+unknownIntent aakdfjkaflkad
+unknownIntent nonsense
+unknownIntent blah blah
+unknownIntent rarar eeee
+unknownIntent wefeeeeeeeee
+unknownIntent lelelee
+unknownIntent what is happening
+unknownIntent jssssss
+unknownIntent mon day tues day
+unknownIntent jeeeirslslal
+unknownIntent this is unkknown

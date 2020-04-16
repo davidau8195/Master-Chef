@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "intent": "advanceStepIntent"
+    },
+    {
+      "intent": "repeatStepIntent"
+    },
+    {
+      "intent": "loadRecipeIntent"
+    },
+    {
+      "intent": "saveRecipeIntent"
+    },
+    {
+      "intent": "readRecipeIntent"
+    },
+    {
+      "intent": "helpIntent"
+    },
+    {
+      "intent": "getIngredientIntent"
+    },
+    {
+      "intent": "advanceIngredientIntent"
+    },
+    {
+      "intent": "lastIngredientIntent"
+    },
+    {
+      "intent": "getDirectionIntent"
+    },
+    {
+      "intent": "advanceDirectionIntent"
+    },
+    {
+      "intent": "lastDirectionIntent"
+    },
+    {
+      "intent": "getPastaRecipeIntent"
+    },
+    {
+      "intent": "getCerealRecipeIntent"
+    },
+    {
+      "intent": "getFriedRiceRecipeIntent"
+    },
+    {
+      "intent": "getSteakRecipeIntent"
+    },
+    {
+      "intent": "getBaconEggsRecipeIntent"
+    },
+    {
+      "intent": "getOatmealRecipeIntent"
+    },
+    {
+      "intent": "quitIntent"
+    },
+    {
+      "intent": "startIntent"
+    },
+    {
+      "intent": "startAgainIntent"
+    },
+    {
+      "intent": "unknownIntent"
+    }
+  ]
+}
